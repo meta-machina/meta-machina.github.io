@@ -1,2 +1,1 @@
-# Meta Machina
-A machine that creates and destroys machines.
+### Meta-Machina
