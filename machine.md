@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meta-Machina
+title: Machina
 ---
 {% include utilities.html %}
 {% include machina.html %}
